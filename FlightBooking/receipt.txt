@@ -1,0 +1,9 @@
+--------------------------------------------
+FROM: CAN	TO: MEL
+Departure Time:2350	Date:15 May 2013
+Total Cost(include departure tax):1020
+--------------------------------------------
+NO.	AIRLINE	TIME	PRICE	FROM	TO
+--------------------------------------------
+CZ321	China Southern	2350	900	CAN	MEL
+--------------------------------------------

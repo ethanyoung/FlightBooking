@@ -1,0 +1,7 @@
+SWZ	Sydney West	120	0.5
+MEL	Tullamarine International	100	0.4
+AVV	Avalon Airport	60	0.2
+BJS	Beijing Capital International	120	1.0
+SHF	Shanghai Hongqiao International	110	1.2
+CAN	Baiyun Airport	120	0.9
+SZX	Shenzhen Bao'an International	100	1.0
